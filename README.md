@@ -12,12 +12,7 @@ MNIST Images are 28 x 28 pixels. For the RNNs/LSTMs to learn MNIST Digits, I use
 ![mnist4](thesisimagesflowcharts/mnist4.jpeg)
 
 
-## Deep Generative Replay :
-
-![DGR](thesisimagesflowcharts/dgr.jpeg)
-
-
-## Training Algorithm:
+## Training Algorithm (Deep Generative Replay):
 
 ![trainalgo](thesisimagesflowcharts/algo.jpeg)
 
@@ -34,28 +29,27 @@ MNIST Images are 28 x 28 pixels. For the RNNs/LSTMs to learn MNIST Digits, I use
 
 ### t-SNE Plots of the True Samples vs GAN Samples
 
-
-
+![gansamples1](thesis graphs/tsne0123.jpeg)
 
 
 ## Results:
 
-### Machine Learning Metrics:
+### Baselines:
 
-![ml metrics](Images/ml_metrics.jpeg)
+![gansamples1](thesis graphs/tsne0123.jpeg)
 
-### Financial Metrics
+### LSTM
 
 ![finance](Images/financial_metrics.jpeg)
 
-We also trained the Multi Layer Perceptron(MLP) for 3-class classification, changing the targets such that each could be classified to have a rate of return in the top 10%, the bottom 10% or the middle for the day. One can see that some Financial metrics, like Sharpe Ratio, Max Drawdown and Returns improve significantly.
+### Biologically Constrained RNN
 
-![finance](Images/3classification.jpeg)
+![finance](Images/financial_metrics.jpeg)
 
 
 ## Report:
 
-[Report](https://github.com/amartyap/Predicting-Stock-Returns-PTSA-Project/blob/master/Project%20Report_PTSA.pdf)
+[Report](Amartya's Thesis.pdf)
 
 
 ## Referencing:
