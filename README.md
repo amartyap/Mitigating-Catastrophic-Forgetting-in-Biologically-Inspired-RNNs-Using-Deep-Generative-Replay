@@ -31,6 +31,8 @@ MNIST Images are 28 x 28 pixels. For the RNNs/LSTMs to learn MNIST Digits, I use
 
 ![gansamples1](thesis_graphs/tsne0123.jpeg)
 
+The pane on the right represents the digit
+
 
 ## Results:
 
@@ -48,12 +50,12 @@ MNIST Images are 28 x 28 pixels. For the RNNs/LSTMs to learn MNIST Digits, I use
 
 ### LSTM vs Biological RNN
 
-![brnnres](thesis graphs/lstmvsrnn.jpeg)
+![brnnres](thesis_graphs/lstmvsrnn.jpeg)
 
 
-## Report:
+## Thesis:
 
-[Report](Amartya's Thesis.pdf)
+[Thesis](Amartya_Thesis.pdf)
 
 
 ## Referencing:
