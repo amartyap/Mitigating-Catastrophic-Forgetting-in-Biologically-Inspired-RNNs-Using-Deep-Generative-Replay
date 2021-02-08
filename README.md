@@ -29,31 +29,31 @@ MNIST Images are 28 x 28 pixels. For the RNNs/LSTMs to learn MNIST Digits, I use
 
 ### t-SNE Plots of the True Samples vs GAN Samples
 
-![gansamples1]('/thesis graphs/tsne0123.jpeg')
+![gansamples1](thesis_graphs/tsne0123.jpeg)
 
 
 ## Results:
 
 ### Baselines:
 
-![baselines]('thesis graphs/baselines.jpeg')
+![baselines](thesis_graphs/baselines.jpeg)
 
 ### LSTM
 
-![lstmres]('thesis graphs/lstmoverall.jpeg')
+![lstmres](thesis_graphs/lstmoverall.jpeg)
 
 ### Biologically Constrained RNN
 
-![brnnres]('thesis graphs/brnnoverall.jpeg')
+![brnnres](thesis_graphs/brnnoverall.jpeg)
 
 ### LSTM vs Biological RNN
 
-![brnnres]('thesis graphs/lstmvsrnn.jpeg')
+![brnnres](thesis graphs/lstmvsrnn.jpeg)
 
 
 ## Report:
 
-[Report]('Amartya's Thesis.pdf')
+[Report](Amartya's Thesis.pdf)
 
 
 ## Referencing:
