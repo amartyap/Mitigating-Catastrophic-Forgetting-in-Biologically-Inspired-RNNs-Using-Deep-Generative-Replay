@@ -29,7 +29,7 @@ MNIST Images are 28 x 28 pixels. For the RNNs/LSTMs to learn MNIST Digits, I use
 
 ### t-SNE Plots of the True Samples vs GAN Samples
 
-![gansamples1]('thesis graphs/tsne0123.jpeg')
+![gansamples1]('/thesis graphs/tsne0123.jpeg')
 
 
 ## Results:
