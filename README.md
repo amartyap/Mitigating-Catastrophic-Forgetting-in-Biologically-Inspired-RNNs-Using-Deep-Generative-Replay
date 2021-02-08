@@ -52,6 +52,7 @@ The pane on the right represents the digit
 
 ![brnnres](thesis_graphs/lstmvsrnn.jpeg)
 
+One can see that Deep Generative Replay is quite effective at restricting catastrophic forgetting in the LSTM but not as much in the Biological RNN, perhaps due to the additional constraints.
 
 ## Thesis:
 
